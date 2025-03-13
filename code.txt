@@ -2,9 +2,9 @@
 // @name         EdgeHack
 // @namespace    http://tampermonkey.net/
 // @version      55.0
-// @description  hope you enjoy! i am working on a update for tests and quizzes 
+// @description  hope you enjoy! i am working on a update for tests and quizzes
 // @author       BINKS3435
-// @include      https://r*.core.learn.edgenuity.com/Player/
+// @include      https://r22.core.learn.edgenuity.com/player/
 // @grant        none
 // ==/UserScript==
 (function() {
